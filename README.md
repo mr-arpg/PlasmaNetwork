@@ -1,6 +1,6 @@
 # PlasmaNetwork
 
-## Chemical Reaction Network Analysis using Machine Learning
+-> Chemical Reaction Network Analysis using Machine Learning <-
 
 This repository contains Python code for analyzing and visualizing chemical reaction networks. It leverages machine learning, specifically TensorFlow, to determine the relative importance (weights) of different reactions within a chemical scheme based on species densities and initial fractions. The analysis includes visualizing the reaction network using Petri nets and species-centric graphs.
 
