@@ -36,6 +36,7 @@ The notebook includes examples of applying this workflow to different chemical s
 
 1.  Clone this repository.
 2.  Install the required Python packages:
-
+```
     sudo apt-get update
     sudo apt-get install graphviz libgraphviz-dev
+```
